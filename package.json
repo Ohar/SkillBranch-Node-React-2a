@@ -1,0 +1,29 @@
+{
+  "name": "skillbranch-node-react-a2",
+  "version": "1.0.0",
+  "description": "SkillBranch: DEV-Intensive Node.js & React.js: Task 2A",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ohar/SkillBranch-Node-React-a2.git"
+  },
+  "author": "Pavel Lysenko aka Ohar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ohar/SkillBranch-Node-React-a2/issues"
+  },
+  "homepage": "https://github.com/Ohar/SkillBranch-Node-React-a2#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.1.2"
+  }
+}
